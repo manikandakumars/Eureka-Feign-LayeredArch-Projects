@@ -1,0 +1,9 @@
+server:
+ port: 8092
+ #servlet:
+  #context-path: /ProductApp
+
+
+spring: 
+ application:
+  name: MS-PRODUCT

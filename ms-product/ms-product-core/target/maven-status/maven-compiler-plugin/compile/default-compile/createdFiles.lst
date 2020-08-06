@@ -1,0 +1,5 @@
+com\product\gateway\CustomerGateway.class
+com\product\service\ProductServiceImp.class
+com\product\domain\Product.class
+com\product\repo\IProductRepo.class
+com\product\service\IProductService.class
